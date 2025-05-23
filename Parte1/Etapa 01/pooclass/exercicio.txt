@@ -1,0 +1,15 @@
+
+Exercício
+
+Definir um modelo objeto para formas geométricas. O modelo deverá 
+possuir um método que armazene e imprima a área com a seguinte 
+assinatura:
+ 
+    public double imprimeArea()
+
+Criar métodos que calculem a área das formas
+Usar atributos encapsulados
+Armazenar os valores dos lados
+Criar um programa que instancie ao menos um objeto de cada tipo.
+Implementar para as formas círculo, retângulo e quadrado.
+Evitar repeticao de codigo usando tecnicas de orientacao a objetos.
